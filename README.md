@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sahal 👋
 
-<!--
-**Sahal-Sony/Sahal-Sony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 🤖 Generative AI Enthusiast | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm currently pursuing a **Bachelor of Computer Applications (BCA)** with a focus on **Generative AI and Technology Management**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in learning how software, artificial intelligence, and emerging technologies can be used to build useful and practical solutions.
+
+## 🛠️ Currently Learning
+
+* 💻 Programming & Software Development
+* 🤖 Generative AI & AI Tools
+* 🌐 Web Development
+* 🗄️ Databases
+* 🔧 Git & GitHub
+* ☁️ Emerging Technologies
+
+## 🚀 Goals
+
+* Build real-world projects
+* Improve my programming and problem-solving skills
+* Explore Generative AI applications
+* Build a strong portfolio as a developer
+
+## 📂 Projects
+
+I'm currently building my skills and will be adding projects here as I learn and develop.
+
+## 📫 Connect With Me
+
+* GitHub: You're already here! 😄
+* LinkedIn: Coming soon
+* Portfolio: Coming soon
+
+---
+
+⭐ *Learning, building, and improving one project at a time.*
